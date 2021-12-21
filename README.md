@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BryanKinkel
+- 👀 I work for AutoLenders in NJ.
+- I work with the Microsoft stack ---> .NET Framework, C#, VB, SQL, Visual Studio, etc.
+- bryan.kinkel@gmail.com
